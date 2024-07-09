@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/USER/myFolder/mainFolder/digital_system/CA/CA5/project_d1/simulation/modelsim
+vcos_Q1
+Z0 !s110 1704722607
+!i10b 1
+!s100 IBbHNVLePLUP7LTE2SZ]=2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8fLk=:3POe7BIZ:RfNz@<0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim
+Z4 w1704725264
+Z5 8C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/cos_Q1.vo
+Z6 FC:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/cos_Q1.vo
+!i122 50
+L0 32 13865
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1704722607.000000
+!s107 C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/cos_Q1.vo|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/cos_Q1.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+ncos_@q1
+vcosx_tb
+R0
+!i10b 1
+!s100 `iZh[`3]U[PdV>HGfRMQE3
+R1
+IGHVN4daj<JjcoCiX[O7571
+R2
+R3
+w1704722569
+8C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/testbench1.v
+FC:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/testbench1.v
+!i122 49
+L0 2 31
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/testbench1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/testbench1.v|
+!i113 1
+R10
+R11
+vcosxin_tb
+!s110 1704707496
+!i10b 1
+!s100 ;7NKSf;CWK3MTTI0b7Y_63
+R1
+Ian08=3AoP3[C:L>aA@T8N1
+R2
+dC:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/project1/simulation/modelsim
+w1704707473
+8C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/project1/simulation/modelsim/testbench1.v
+FC:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/project1/simulation/modelsim/testbench1.v
+!i122 1
+L0 2 36
+R7
+r1
+!s85 0
+31
+!s108 1704707496.000000
+!s107 C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/project1/simulation/modelsim/testbench1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/project1/simulation/modelsim/testbench1.v|
+!i113 1
+R10
+R11
+vhard_block
+R0
+!i10b 1
+!s100 bToSYjSK?fX?TSBkV3cPl3
+R1
+IOSKWQIof^=M8F=?c14?4g1
+R2
+R3
+R4
+R5
+R6
+!i122 50
+L0 13898 34
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim/cos_Q1.vo|
+R9
+!i113 1
+R10
+R11

@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Tue Jan 09 19:36:13 2024
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : final_cosx_Q1
+Top-level Entity Name : final_cosx_Q1
+Family : Cyclone IV GX
+Total logic elements : 583
+    Total combinational functions : 581
+    Dedicated logic registers : 57
+Total registers : 57
+Total pins : 44
+Total virtual pins : 0
+Total memory bits : 128
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

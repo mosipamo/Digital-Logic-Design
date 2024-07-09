@@ -1,0 +1,61 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "cnt_en",
+					"strict" : false
+				},
+				{
+					"name" : "cnt_set",
+					"strict" : false
+				},
+				{
+					"name" : "x_ld",
+					"strict" : false
+				},
+				{
+					"name" : "t_ld",
+					"strict" : false
+				},
+				{
+					"name" : "t_init",
+					"strict" : false
+				},
+				{
+					"name" : "r_ld",
+					"strict" : false
+				},
+				{
+					"name" : "r_init",
+					"strict" : false
+				},
+				{
+					"name" : "mux_sel",
+					"strict" : false
+				},
+				{
+					"name" : "ready",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "y_bigger",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+Fitter Status : Successful - Tue Jan 09 19:36:21 2024
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : final_cosx_Q1
+Top-level Entity Name : final_cosx_Q1
+Family : Cyclone IV GX
+Device : EP4CGX15BF14A7
+Timing Models : Final
+Total logic elements : 585 / 14,400 ( 4 % )
+    Total combinational functions : 581 / 14,400 ( 4 % )
+    Dedicated logic registers : 57 / 14,400 ( < 1 % )
+Total registers : 57
+Total pins : 44 / 81 ( 54 % )
+Total virtual pins : 0
+Total memory bits : 128 / 552,960 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0 / 2 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 2 ( 0 % )
+Total PLLs : 0 / 3 ( 0 % )

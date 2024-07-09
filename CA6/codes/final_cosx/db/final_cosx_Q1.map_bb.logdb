@@ -1,0 +1,2 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,LOGIC_ELEMENTS,cos_Q1:inst|mult_lpmm:inst3|lpm_mult:lpm_mult_component|mult_ijn:auto_generated|mac_out2,

@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Mon Jan 08 12:24:07 2024
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : reg_Q1
+Top-level Entity Name : reg_Q1
+Family : Cyclone IV GX
+Total logic elements : 17
+    Total combinational functions : 17
+    Dedicated logic registers : 16
+Total registers : 16
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

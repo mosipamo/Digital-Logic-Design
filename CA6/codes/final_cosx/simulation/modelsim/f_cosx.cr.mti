@@ -1,0 +1,16 @@
+C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/final_cosx/simulation/modelsim/testbench1.v {1 {vlog -work work -stats=none C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/final_cosx/simulation/modelsim/testbench1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cosx_tb
+
+Top level modules:
+	cosx_tb
+
+} {} {}} C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/final_cosx/simulation/modelsim/final_cosx_Q1.vo {1 {vlog -work work -stats=none C:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/final_cosx/simulation/modelsim/final_cosx_Q1.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module final_cosx_Q1
+-- Compiling module hard_block
+
+Top level modules:
+	final_cosx_Q1
+
+} {} {}}

@@ -1,0 +1,81 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/USER/myFolder/mainFolder/digital_system/CA/CA6/CA6_ans/project1/simulation/modelsim
+vcosx_tb
+Z0 !s110 1704819132
+!i10b 1
+!s100 8G3W?IM4koi9ScR:zn39=3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2OoCFX5Va:YHY<ec;RS7Q2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/GOW/CA6_ans/CA6_ans/final_cosx/simulation/modelsim
+w1704819107
+8F:\GOW\CA6_ans\CA6_ans\final_cosx\simulation\modelsim\testbench1.v
+FF:\GOW\CA6_ans\CA6_ans\final_cosx\simulation\modelsim\testbench1.v
+!i122 9
+L0 2 31
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1704819132.000000
+!s107 F:\GOW\CA6_ans\CA6_ans\final_cosx\simulation\modelsim\testbench1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\GOW\CA6_ans\CA6_ans\final_cosx\simulation\modelsim\testbench1.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vfinal_cosx_Q1
+R0
+!i10b 1
+!s100 PljQajh^LD4F6YG25_YO61
+R1
+ITbfIEmGG8j6bV_Ai^m27g1
+R2
+R3
+Z8 w1704816387
+Z9 8F:/GOW/CA6_ans/CA6_ans/final_cosx/simulation/modelsim/final_cosx_Q1.vo
+Z10 FF:/GOW/CA6_ans/CA6_ans/final_cosx/simulation/modelsim/final_cosx_Q1.vo
+!i122 8
+L0 32 13948
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 F:/GOW/CA6_ans/CA6_ans/final_cosx/simulation/modelsim/final_cosx_Q1.vo|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|F:/GOW/CA6_ans/CA6_ans/final_cosx/simulation/modelsim/final_cosx_Q1.vo|
+!i113 1
+R6
+R7
+nfinal_cosx_@q1
+vhard_block
+R0
+!i10b 1
+!s100 4:lK6k9QDdflKoTS0TdGR3
+R1
+II0UV]E`26701lW<fKCAaT2
+R2
+R3
+R8
+R9
+R10
+!i122 8
+L0 13981 34
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R7
