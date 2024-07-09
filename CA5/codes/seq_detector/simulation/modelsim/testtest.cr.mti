@@ -1,0 +1,23 @@
+F:/CA5/seq_detector/simulation/modelsim/seq_detectorTB.v {1 {vlog -work work -stats=none F:/CA5/seq_detector/simulation/modelsim/seq_detectorTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seq_detectorTB
+
+Top level modules:
+	seq_detectorTB
+
+} {} {}} F:/CA5/seq_detector/simulation/modelsim/seq_detector.vo {1 {vlog -work work -stats=none F:/CA5/seq_detector/simulation/modelsim/seq_detector.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seq_detector
+-- Compiling module hard_block
+
+Top level modules:
+	seq_detector
+
+} {} {}} F:/CA5/seq_detector/simulation/modelsim/seq_detector.v {1 {vlog -work work -stats=none F:/CA5/seq_detector/simulation/modelsim/seq_detector.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seq_detector
+
+Top level modules:
+	seq_detector
+
+} {} {}}

@@ -1,0 +1,21 @@
+`timescale 1ns/1ns
+module controller(input clk,rst,seroutval,co3,co8 output detect,shiften,cnt3en,cnt8en,ldcnt3,ldcnt8);
+    parameter[1:0] detecting=0,ntcollecting=1,transmiting=2;
+    reg[1:0]pstate,nstate;
+    always @(pstate,seroutval,co3,co8) begin
+        nstate=0;
+        {detect,shiften,cnt3en,cnt8en,ldcnt3,ldcnt8}=6'b0;
+        case(pstate)
+            detecting:begin detect=1;ldcnt3=1;nstate=seroutval ? ntcollecting:detecting; end
+            ntcollecting:begin shiften=1;cnt3en=1;nstate=co3?transmiting:ntcollecting; end
+            transmiting:begin ldcnt8=1;cnt8en=1;nstate=co8?detecting:transmiting; end
+            default:nstate=detecting;
+        endcase
+    end
+    always@(posedge clk,posedge rst) begin
+        if(rst)
+            pstate<=detecting;
+        else
+            pstate<=nstate;
+    end
+endmodule

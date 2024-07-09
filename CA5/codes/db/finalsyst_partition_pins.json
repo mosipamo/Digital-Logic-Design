@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "serout",
+					"strict" : false
+				},
+				{
+					"name" : "co3",
+					"strict" : false
+				},
+				{
+					"name" : "detect",
+					"strict" : false
+				},
+				{
+					"name" : "co8",
+					"strict" : false
+				},
+				{
+					"name" : "inputcounter8[7]",
+					"strict" : false
+				},
+				{
+					"name" : "inputcounter8[6]",
+					"strict" : false
+				},
+				{
+					"name" : "inputcounter8[5]",
+					"strict" : false
+				},
+				{
+					"name" : "inputcounter8[4]",
+					"strict" : false
+				},
+				{
+					"name" : "inputcounter8[3]",
+					"strict" : false
+				},
+				{
+					"name" : "inputcounter8[2]",
+					"strict" : false
+				},
+				{
+					"name" : "inputcounter8[1]",
+					"strict" : false
+				},
+				{
+					"name" : "inputcounter8[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ntcout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ntcout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ntcout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[7]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[6]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[5]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[4]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[3]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[2]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[1]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[0]",
+					"strict" : false
+				},
+				{
+					"name" : "state[2]",
+					"strict" : false
+				},
+				{
+					"name" : "state[1]",
+					"strict" : false
+				},
+				{
+					"name" : "state[0]",
+					"strict" : false
+				},
+				{
+					"name" : "serin",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

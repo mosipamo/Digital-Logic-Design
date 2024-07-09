@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Amin/Documents/Digtal-Systems/CA5/Q_ex2/simulation/modelsim
+vbitt_transmittor
+Z0 !s110 1704224088
+!i10b 1
+!s100 ;@H9Jioj]OfnGCZkDzXoB2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQzNAalLXk8EEd0:]Ra]@i3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/CA5/transmiter/simulation/modelsim
+Z4 w1704222444
+Z5 8F:/CA5/transmiter/simulation/modelsim/bitt_transmittor.vo
+Z6 FF:/CA5/transmiter/simulation/modelsim/bitt_transmittor.vo
+!i122 9
+L0 32 756
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1704224088.000000
+Z9 !s107 F:/CA5/transmiter/simulation/modelsim/bitt_transmittor.vo|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|F:/CA5/transmiter/simulation/modelsim/bitt_transmittor.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vhard_block
+R0
+!i10b 1
+!s100 F26:KH1D3c;[W?5SWd94c2
+R1
+IbSNe[9ESRP[nJB?MTBS]`3
+R2
+R3
+R4
+R5
+R6
+!i122 9
+L0 789 34
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtransmitorTB
+R0
+!i10b 1
+!s100 nd4fG:T`CM=8TQh_[ca8_2
+R1
+IU17le7P:?a`H`MKIzD=O?3
+R2
+R3
+w1704183412
+8F:/CA5/transmiter/simulation/modelsim/transmitorTB.v
+FF:/CA5/transmiter/simulation/modelsim/transmitorTB.v
+!i122 10
+L0 2 30
+R7
+r1
+!s85 0
+31
+R8
+!s107 F:/CA5/transmiter/simulation/modelsim/transmitorTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/CA5/transmiter/simulation/modelsim/transmitorTB.v|
+!i113 1
+R11
+R12
+ntransmitor@t@b
+vtransmitter_tb
+!s110 1704117694
+!i10b 1
+!s100 Bb_]:GeQ>]iT<e4I`@Vg00
+R1
+IPE0an33ec8zWA0iGeNe5>3
+R2
+dC:/Users/Amirhosein/Desktop/amintra/Q_ex3/simulation/modelsim
+w1704044638
+8C:/Users/Amirhosein/Desktop/amintra/Q_ex3/simulation/modelsim/transmitter_tb.v
+FC:/Users/Amirhosein/Desktop/amintra/Q_ex3/simulation/modelsim/transmitter_tb.v
+!i122 5
+L0 2 20
+R7
+r1
+!s85 0
+31
+!s108 1704117694.000000
+!s107 C:/Users/Amirhosein/Desktop/amintra/Q_ex3/simulation/modelsim/transmitter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amirhosein/Desktop/amintra/Q_ex3/simulation/modelsim/transmitter_tb.v|
+!i113 1
+R11
+R12

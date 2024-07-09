@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Amirhosein/Desktop/DSD_CA5/detector parta
+vhard_block
+Z0 !s110 1704227893
+!i10b 1
+!s100 QNo_0`@bNn6`MD`3jaiIY3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie??TVZcYGJ[8fQHMLaiJZ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/CA5/seq_detector/simulation/modelsim
+Z4 w1704226770
+Z5 8F:/CA5/seq_detector/simulation/modelsim/seq_detector.vo
+Z6 FF:/CA5/seq_detector/simulation/modelsim/seq_detector.vo
+!i122 49
+L0 517 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1704227893.000000
+Z9 !s107 F:/CA5/seq_detector/simulation/modelsim/seq_detector.vo|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|F:/CA5/seq_detector/simulation/modelsim/seq_detector.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vseq_detector
+R0
+!i10b 1
+!s100 gIe6W2^YFTlR99nd6OA==2
+R1
+IzUN3RhmahLZ57:h02WRCR1
+R2
+R3
+R4
+R5
+R6
+!i122 49
+Z13 L0 32 484
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vseq_detectorQ
+!s110 1704096690
+!i10b 1
+!s100 aD9Bc=;cN^Y92iPeoo2Li1
+R1
+If7@WlQebmW>60zNYIHSBW2
+R2
+dC:/Users/Amirhosein/Desktop/DSD_CA5/finalsyst/seq_detector/simulation/modelsim
+w1704094935
+8C:/Users/Amirhosein/Desktop/DSD_CA5/finalsyst/seq_detector/simulation/modelsim/seq_detector.vo
+FC:/Users/Amirhosein/Desktop/DSD_CA5/finalsyst/seq_detector/simulation/modelsim/seq_detector.vo
+!i122 19
+R13
+R7
+r1
+!s85 0
+31
+!s108 1704096690.000000
+!s107 C:/Users/Amirhosein/Desktop/DSD_CA5/finalsyst/seq_detector/simulation/modelsim/seq_detector.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amirhosein/Desktop/DSD_CA5/finalsyst/seq_detector/simulation/modelsim/seq_detector.vo|
+!i113 1
+R11
+R12
+nseq_detector@q
+vseq_detectorTB
+R0
+!i10b 1
+!s100 k0h@WB9Wm?ZbhIaWiI9B<2
+R1
+IJ_6S4LZ7WMT>=?B_DACPQ3
+R2
+R3
+w1704223417
+8F:/CA5/seq_detector/simulation/modelsim/seq_detectorTB.v
+FF:/CA5/seq_detector/simulation/modelsim/seq_detectorTB.v
+!i122 50
+L0 2 29
+R7
+r1
+!s85 0
+31
+R8
+!s107 F:/CA5/seq_detector/simulation/modelsim/seq_detectorTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/CA5/seq_detector/simulation/modelsim/seq_detectorTB.v|
+!i113 1
+R11
+R12
+nseq_detector@t@b

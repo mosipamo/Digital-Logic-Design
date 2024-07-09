@@ -1,0 +1,44 @@
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.nt_counterTB -L altera_ver -L cycloneiv_ver -sdftyp {/UUT=F:/CA5/nt counter/simulation/modelsim/nt_counter_v.sdo}
+# vsim -gui work.nt_counterTB -L altera_ver -L cycloneiv_ver -sdftyp "/UUT=F:/CA5/nt counter/simulation/modelsim/nt_counter_v.sdo" 
+# Start time: 22:50:28 on Jan 02,2024
+# Loading work.nt_counterTB
+# Loading work.nt_counter
+# Loading work.hard_block
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading instances from F:/CA5/nt counter/simulation/modelsim/nt_counter_v.sdo
+# Loading instances from nt_counter_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from F:/CA5/nt counter/simulation/modelsim/nt_counter_v.sdo
+# Loading timing data from nt_counter_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB File: F:/CA5/nt counter/simulation/modelsim/nt_counterTB.v
+add wave -position insertpoint  \
+sim:/nt_counterTB/clk \
+sim:/nt_counterTB/cnten3 \
+sim:/nt_counterTB/co3 \
+sim:/nt_counterTB/ldcnt3 \
+sim:/nt_counterTB/out \
+sim:/nt_counterTB/rst \
+sim:/nt_counterTB/serin \
+sim:/nt_counterTB/shiftout
+run -all
+# ** Note: $stop    : F:/CA5/nt counter/simulation/modelsim/nt_counterTB.v(25)
+#    Time: 4850 ns  Iteration: 0  Instance: /nt_counterTB
+# Break in Module nt_counterTB at F:/CA5/nt counter/simulation/modelsim/nt_counterTB.v line 25
+quit -sim
+# End time: 22:51:21 on Jan 02,2024, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 9

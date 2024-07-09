@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "serOut",
+					"strict" : false
+				},
+				{
+					"name" : "cout",
+					"strict" : false
+				},
+				{
+					"name" : "parout_8_cnt[7]",
+					"strict" : false
+				},
+				{
+					"name" : "parout_8_cnt[6]",
+					"strict" : false
+				},
+				{
+					"name" : "parout_8_cnt[5]",
+					"strict" : false
+				},
+				{
+					"name" : "parout_8_cnt[4]",
+					"strict" : false
+				},
+				{
+					"name" : "parout_8_cnt[3]",
+					"strict" : false
+				},
+				{
+					"name" : "parout_8_cnt[2]",
+					"strict" : false
+				},
+				{
+					"name" : "parout_8_cnt[1]",
+					"strict" : false
+				},
+				{
+					"name" : "parout_8_cnt[0]",
+					"strict" : false
+				},
+				{
+					"name" : "serIn",
+					"strict" : false
+				},
+				{
+					"name" : "cnt_8_en",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "parin_8_cnt[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "load",
+					"strict" : false
+				},
+				{
+					"name" : "parin_8_cnt[6]",
+					"strict" : false
+				},
+				{
+					"name" : "parin_8_cnt[5]",
+					"strict" : false
+				},
+				{
+					"name" : "parin_8_cnt[4]",
+					"strict" : false
+				},
+				{
+					"name" : "parin_8_cnt[3]",
+					"strict" : false
+				},
+				{
+					"name" : "parin_8_cnt[2]",
+					"strict" : false
+				},
+				{
+					"name" : "parin_8_cnt[1]",
+					"strict" : false
+				},
+				{
+					"name" : "parin_8_cnt[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

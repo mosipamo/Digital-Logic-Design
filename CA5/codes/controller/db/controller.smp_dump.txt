@@ -1,0 +1,8 @@
+
+State Machine - |controller|p_state
+Name p_state.loading_cnt8 p_state.nt_collecting p_state.loading_cnt3 p_state.detecting p_state.transmitting 
+p_state.detecting 0 0 0 0 0 
+p_state.loading_cnt3 0 0 1 1 0 
+p_state.nt_collecting 0 1 0 1 0 
+p_state.loading_cnt8 1 0 0 1 0 
+p_state.transmitting 0 0 0 1 1 

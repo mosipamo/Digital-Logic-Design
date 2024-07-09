@@ -1,0 +1,16 @@
+C:/Users/Amin/Documents/Digtal-Systems/CA5/Q_ex3/simulation/modelsim/transmitter_tb.v {1 {vlog -work work -stats=none C:/Users/Amin/Documents/Digtal-Systems/CA5/Q_ex3/simulation/modelsim/transmitter_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module transmitter_tb
+
+Top level modules:
+	transmitter_tb
+
+} {} {}} C:/Users/Amin/Documents/Digtal-Systems/CA5/Q_ex3/simulation/modelsim/bitt_transmittor.vo {1 {vlog -work work -stats=none {C:\Users\Amin\Documents\Digtal-Systems\CA5\Q_ex3\simulation\modelsim\bitt_transmittor.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bitt_transmittor
+-- Compiling module hard_block
+
+Top level modules:
+	bitt_transmittor
+
+} {} {}}

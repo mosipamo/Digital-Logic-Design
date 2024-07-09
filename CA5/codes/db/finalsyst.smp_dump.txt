@@ -1,0 +1,18 @@
+
+State Machine - |finalsyst|seq_detector:inst|ps
+Name ps.G ps.F ps.E ps.D ps.C ps.B ps.A 
+ps.A 0 0 0 0 0 0 0 
+ps.B 0 0 0 0 0 1 1 
+ps.C 0 0 0 0 1 0 1 
+ps.D 0 0 0 1 0 0 1 
+ps.E 0 0 1 0 0 0 1 
+ps.F 0 1 0 0 0 0 1 
+ps.G 1 0 0 0 0 0 1 
+
+State Machine - |finalsyst|controller:inst11|p_state
+Name p_state.loading_cnt8 p_state.nt_collecting p_state.loading_cnt3 p_state.detecting p_state.transmitting 
+p_state.detecting 0 0 0 0 0 
+p_state.loading_cnt3 0 0 1 1 0 
+p_state.nt_collecting 0 1 0 1 0 
+p_state.loading_cnt8 1 0 0 1 0 
+p_state.transmitting 0 0 0 1 1 

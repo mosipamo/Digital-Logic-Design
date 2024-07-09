@@ -1,0 +1,16 @@
+|controller
+clk => p_state~1.DATAIN
+rst => p_state~3.DATAIN
+seroutval => n_state.loading_cnt3.DATAB
+seroutval => Selector0.IN1
+co3 => n_state.loading_cnt8.DATAB
+co3 => Selector1.IN2
+co8 => Selector0.IN3
+co8 => Selector2.IN2
+detect <= detect.DB_MAX_OUTPUT_PORT_TYPE
+cnt3en <= cnt3en.DB_MAX_OUTPUT_PORT_TYPE
+cnt8en <= cnt8en.DB_MAX_OUTPUT_PORT_TYPE
+ldcnt3 <= ldcnt3.DB_MAX_OUTPUT_PORT_TYPE
+ldcnt8 <= ldcnt8.DB_MAX_OUTPUT_PORT_TYPE
+
+

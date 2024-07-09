@@ -1,0 +1,24 @@
+|seq_detector
+serin => ns.C.DATAB
+serin => ns.D.DATAB
+serin => ns.E.DATAB
+serin => ns.F.DATAB
+serin => ns.G.DATAB
+serin => Selector0.IN2
+serin => ps.DATAB
+serin => serout.DATAB
+detect => ps.OUTPUTSELECT
+detect => ps.OUTPUTSELECT
+detect => ps.OUTPUTSELECT
+detect => ps.OUTPUTSELECT
+detect => ps.OUTPUTSELECT
+detect => ps.OUTPUTSELECT
+detect => ps.OUTPUTSELECT
+clk => ps~3.DATAIN
+rst => ps~5.DATAIN
+serout << serout.DB_MAX_OUTPUT_PORT_TYPE
+state[0] << WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+state[1] << WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+state[2] << WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+
+

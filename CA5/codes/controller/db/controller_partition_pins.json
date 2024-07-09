@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "detect",
+					"strict" : false
+				},
+				{
+					"name" : "cnt3en",
+					"strict" : false
+				},
+				{
+					"name" : "cnt8en",
+					"strict" : false
+				},
+				{
+					"name" : "ldcnt3",
+					"strict" : false
+				},
+				{
+					"name" : "ldcnt8",
+					"strict" : false
+				},
+				{
+					"name" : "co8",
+					"strict" : false
+				},
+				{
+					"name" : "seroutval",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "co3",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

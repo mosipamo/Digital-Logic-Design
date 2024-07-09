@@ -1,0 +1,292 @@
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.nt_counterTB
+# vsim -gui work.nt_counterTB 
+# Start time: 12:13:10 on Dec 31,2023
+# Loading work.nt_counterTB
+# Loading work.nt_counter
+# Loading work.hard_block
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 123
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 136
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 149
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 162
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 175
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 188
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 201
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 214
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 227
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 240
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_clkctrl' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 250
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 263
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 281
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 298
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_clkctrl' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 308
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 321
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 331
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 341
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 358
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 377
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 396
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 415
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 434
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 453
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 470
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 480
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 497
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 516
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 533
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 552
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 569
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 588
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 605
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 624
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 641
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 660
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 677
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 696
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 713
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 732
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB/UUT File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter.vo Line: 749
+#         Searched libraries:
+#             C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/work
+# Error loading design
+# End time: 12:13:10 on Dec 31,2023, Elapsed time: 0:00:00
+# Errors: 41, Warnings: 7
+# Load canceled
+vsim -gui work.nt_counterTB -L cycloneiv_ver -L altera_ver -sdftyp {/UUT=C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo}
+# vsim -gui work.nt_counterTB -L cycloneiv_ver -L altera_ver -sdftyp "/UUT=C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo" 
+# Start time: 12:14:34 on Dec 31,2023
+# Loading work.nt_counterTB
+# Loading work.nt_counter
+# Loading work.hard_block
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# Loading instances from C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo
+# Loading instances from nt_counter_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo
+# Loading timing data from nt_counter_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:C:/mtitcl/vsim/qstructure.tc_:2478: ::QStructure::sort .main_pane.structure 0 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position end  sim:/nt_counterTB/clk
+add wave -position end  sim:/nt_counterTB/cnten3
+add wave -position end  sim:/nt_counterTB/co3
+add wave -position end  sim:/nt_counterTB/ldcnt3
+add wave -position end  sim:/nt_counterTB/rst
+add wave -position end  sim:/nt_counterTB/serin
+add wave -position end  sim:/nt_counterTB/shiftout
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+# ** Note: $stop    : C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v(24)
+#    Time: 3050 ns  Iteration: 0  Instance: /nt_counterTB
+# Break in Module nt_counterTB at C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v line 24
+# Break key hit
+quit -sim
+# End time: 12:36:55 on Dec 31,2023, Elapsed time: 0:22:21
+# Errors: 0, Warnings: 2
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui -L cycloneiv_ver -L altera_ver -sdftyp {/UUT=C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo} work.nt_counterTB
+# vsim -gui -L cycloneiv_ver -L altera_ver -sdftyp "/UUT=C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo" work.nt_counterTB 
+# Start time: 12:37:42 on Dec 31,2023
+# Loading work.nt_counterTB
+# Loading work.nt_counter
+# Loading work.hard_block
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# Loading instances from C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo
+# Loading instances from nt_counter_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo
+# Loading timing data from nt_counter_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v
+add wave -position insertpoint  \
+sim:/nt_counterTB/clk \
+sim:/nt_counterTB/cnten3 \
+sim:/nt_counterTB/co3 \
+sim:/nt_counterTB/ldcnt3 \
+sim:/nt_counterTB/rst \
+sim:/nt_counterTB/serin \
+sim:/nt_counterTB/shiftout
+run -all
+# ** Note: $stop    : C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v(24)
+#    Time: 3050 ns  Iteration: 0  Instance: /nt_counterTB
+# Break in Module nt_counterTB at C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v line 24
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.nt_counterTB
+# Loading work.nt_counter
+# Loading work.hard_block
+# Loading instances from C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo
+# Loading instances from nt_counter_v.sdo
+# Loading timing data from C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counter_v.sdo
+# Loading timing data from nt_counter_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /nt_counterTB File: C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+# ** Note: $stop    : C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v(24)
+#    Time: 3050 ns  Iteration: 0  Instance: /nt_counterTB
+# Break in Module nt_counterTB at C:/Users/Amirhosein/Desktop/DSD_CA5/nt counter/simulation/modelsim/nt_counterTB.v line 24
+quit -sim
+# End time: 12:40:20 on Dec 31,2023, Elapsed time: 0:02:38
+# Errors: 0, Warnings: 2
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# reading C:/intelFPGA/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project nt_counter
+# Compile of nt_counter.vo was successful.
+# Compile of nt_counterTB.v was successful.
+# 2 compiles, 0 failed with no errors.

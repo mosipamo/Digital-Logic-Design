@@ -1,0 +1,64 @@
+# Compile of finalsyst.vo was successful.
+# Compile of finalsystTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp /UUT=F:/CA5/simulation/modelsim/finalsyst_v.sdo work.hard_block
+# vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp "/UUT=F:/CA5/simulation/modelsim/finalsyst_v.sdo" work.hard_block 
+# Start time: 00:37:05 on Jan 03,2024
+# Loading work.hard_block
+# Loading instances from F:/CA5/simulation/modelsim/finalsyst_v.sdo
+# ** Error (suppressible): (vsim-SDF-3250) finalsyst_v.sdo(0): Failed to find INSTANCE '/UUT'.
+# ** Error (suppressible): (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# ** Fatal: SDF files require Intel FPGA Edition primitive library
+#    Time: 0 ps  Iteration: 0  Instance: /hard_block File: F:/CA5/simulation/modelsim/finalsyst.vo
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 00:37:05 on Jan 03,2024, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 5
+# Compile of finalsyst.vo was successful.
+# Compile of finalsystTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp /UUT=F:/CA5/simulation/modelsim/finalsyst_v.sdo work.finalsystTB
+# vsim -gui -L altera_ver -L cycloneiv_ver -sdftyp "/UUT=F:/CA5/simulation/modelsim/finalsyst_v.sdo" work.finalsystTB 
+# Start time: 00:37:21 on Jan 03,2024
+# Loading work.finalsystTB
+# Loading work.finalsyst
+# Loading work.hard_block
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# Loading instances from F:/CA5/simulation/modelsim/finalsyst_v.sdo
+# Loading instances from finalsyst_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from F:/CA5/simulation/modelsim/finalsyst_v.sdo
+# Loading timing data from finalsyst_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /finalsystTB File: F:/CA5/simulation/modelsim/finalsystTB.v
+add wave -position insertpoint  \
+sim:/finalsystTB/clk \
+sim:/finalsystTB/co3 \
+sim:/finalsystTB/co8 \
+sim:/finalsystTB/detect \
+sim:/finalsystTB/inputcounter8 \
+sim:/finalsystTB/ntcout \
+sim:/finalsystTB/rst \
+sim:/finalsystTB/serin \
+sim:/finalsystTB/serout \
+sim:/finalsystTB/shift \
+sim:/finalsystTB/state
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Amirhosein  Hostname: DESKTOP-1IKH027  ProcessID: 4408
+#           Attempting to use alternate WLF file "./wlftxyabhy".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftxyabhy
+run -all
+# ** Note: $stop    : F:/CA5/simulation/modelsim/finalsystTB.v(56)
+#    Time: 8850 ns  Iteration: 0  Instance: /finalsystTB
+# Break in Module finalsystTB at F:/CA5/simulation/modelsim/finalsystTB.v line 56
+quit -sim
+# Break key hit
+# End time: 00:37:48 on Jan 03,2024, Elapsed time: 0:00:27
+# Errors: 0, Warnings: 5

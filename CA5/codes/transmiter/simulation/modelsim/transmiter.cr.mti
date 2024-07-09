@@ -1,0 +1,16 @@
+{C:/Users/Amirhosein/Desktop/i wanna die/transmiter/simulation/modelsim/bitt_transmittor.vo} {1 {vlog -work work -stats=none {C:/Users/Amirhosein/Desktop/i wanna die/transmiter/simulation/modelsim/bitt_transmittor.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bitt_transmittor
+-- Compiling module hard_block
+
+Top level modules:
+	bitt_transmittor
+
+} {} {}} {C:/Users/Amirhosein/Desktop/i wanna die/transmiter/simulation/modelsim/transmitorTB.v} {1 {vlog -work work -stats=none {C:/Users/Amirhosein/Desktop/i wanna die/transmiter/simulation/modelsim/transmitorTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module transmitorTB
+
+Top level modules:
+	transmitorTB
+
+} {} {}}
